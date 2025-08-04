@@ -1,0 +1,345 @@
+name,age,gender,cc_num,category,amt,street,city,state,zip,job,unix_time,is_fraud,predicted_fraud
+Vincent Waller,66,Male,4623560839669,misc_net,788.07,9379 Vanessa Run Apt. 400,Lohrville,IA,51453,Administrator,1378593388,1,1
+Connor Grant,44,Male,30042378430132,misc_net,714.25,0654 Kevin Turnpike Apt. 084,Northport,NY,11768,Tour manager,1381892484,1,1
+Wesley Parker,39,Male,4713464490314802,grocery_pos,312.58,7452 Browning Port,Mc Intosh,SD,57641,"Designer, industrial/product",1373163172,1,1
+Margaret Williams,94,Female,4509142395811241,grocery_pos,319.8,165 Jerry Meadows Suite 460,Surrency,GA,31563,"Engineer, technical sales",1378180240,1,1
+Keith Sanders,21,Male,3545109339866548,grocery_pos,286.92,8030 Beck Motorway,Moorhead,MS,38761,Chartered public finance accountant,1386497838,1,1
+Monica Tucker,21,Female,4653879239169997,grocery_pos,274.36,302 Christina Islands,Smiths Grove,KY,42171,"Therapist, sports",1375579493,1,1
+Edward Hensley,34,Male,676275912597,shopping_net,957.9,24318 Dixon Mills,Elk Rapids,MI,49629,Chief Financial Officer,1385595299,1,1
+Ashley Lopez,49,Female,3598215285024754,home,305.17,9333 Valentine Point,Bellmore,NY,11710,"Librarian, public",1376691954,0,1
+Carlos Chung,48,Male,2266735643685262,shopping_pos,809.11,8957 Russell Key,Grant,AL,35747,Curator,1376408363,0,1
+Susan Mills,68,Female,571844099986,shopping_net,1143.96,005 Cody Estates,Louisville,KY,40202,Engineering geologist,1372595234,1,1
+Amy Flynn,70,Female,573283817795,grocery_pos,284.76,46095 Tara Fords,Jaffrey,NH,3452,"Surveyor, hydrographic",1382833342,1,1
+Jennifer Banks,32,Female,2703186189652095,shopping_net,981.45,561 Perry Cove,Moravian Falls,NC,28654,"Psychologist, counselling",1374232354,1,1
+Pamela Matthews,59,Female,5456712664803820,shopping_net,957.37,36659 Smith Club Apt. 080,Llano,NM,87543,Architectural technologist,1381504990,1,1
+Christopher Odom,29,Male,4244953610136705533,shopping_net,992.26,81446 Nicole Highway Apt. 874,Richland,NJ,8350,Licensed conveyancer,1383429706,1,1
+Joseph Bartlett,88,Male,4352307151555405069,grocery_pos,283.96,610 Pacheco Parkway,Falls Church,VA,22046,Armed forces training and education officer,1375231732,1,1
+Danielle Yu,44,Female,30238755902988,gas_transport,11.17,5395 Colon Burgs Suite 037,Thrall,TX,76578,Press sub,1376106091,1,1
+Benjamin Rogers,25,Male,3586955669388457,shopping_net,955.07,24191 Elizabeth Mill,Bolivar,PA,15923,"Administrator, local government",1381185608,1,1
+Jennifer Jones,84,Female,583699482621,health_fitness,253.95,5572 Kelly Plains Apt. 952,Waupaca,WI,54981,"Engineer, civil (contracting)",1381360746,0,1
+William Fitzgerald,33,Male,4102003771126577611,shopping_net,1318.51,715 Courtney Pike Suite 932,Keller,TX,76248,Probation officer,1384792467,0,1
+Lauren Moreno,79,Female,3528231451607350,shopping_pos,727.32,83719 Wilson Shore,Heislerville,NJ,8324,Exercise physiologist,1372635990,1,1
+Brooke Rodriguez,32,Female,4104312520615374,grocery_pos,321.16,901 Todd Gardens Apt. 466,Mountain Center,CA,92561,"Therapist, music",1381462904,1,1
+Tina Zimmerman,34,Female,378904938837132,misc_net,1081.21,3595 Susan Island Suite 063,Thomas,OK,73669,Barrister,1387131628,0,1
+Brian Hogan,60,Male,4972228199573984,shopping_net,1082.1,3316 Cindy Land,Lane,OK,74555,Quantity surveyor,1385334705,1,1
+Vincent Cain,74,Male,30570197515105,misc_net,856.3,64851 Cole Turnpike,Hartford,AL,36344,Jewellery designer,1382050647,1,1
+Karen Sullivan,45,Female,30518196150127,shopping_net,1340.6,6313 Scott Trace,Rossville,IL,60963,"Buyer, retail",1372866472,0,1
+Kayla Sutton,69,Female,213180742685905,grocery_pos,337.77,010 Weaver Land,Carlotta,CA,95528,"Therapist, occupational",1386632539,1,1
+Edward Hensley,34,Male,676275912597,shopping_net,831.72,24318 Dixon Mills,Elk Rapids,MI,49629,Chief Financial Officer,1385591464,1,1
+Philip Hart,25,Male,6592243974328236,shopping_net,2873.64,97405 Vazquez Plains,Montgomery,AL,36111,"Chemist, analytical",1377788023,0,1
+Morgan James,57,Female,3550412175018089,grocery_pos,332.59,742 Sellers Ferry,Lexington,KY,40502,Software engineer,1378266196,1,1
+Dalton Jones,62,Male,30242921189660,shopping_pos,835.04,3304 Hernandez Run,Afton,MI,49705,Technical brewer,1384383940,1,1
+Ana Howell,36,Female,213112402583773,entertainment,464.3,4664 Sanchez Common Suite 930,Bradley,SC,29819,Research scientist (physical sciences),1376849616,1,1
+Christine Leblanc,32,Female,4570636521433188,shopping_pos,853.68,5097 Jodi Vista Suite 811,Deltona,FL,32725,Commercial horticulturist,1379757768,1,1
+Laura Johns,31,Female,38530489946071,home,270.06,95835 Garcia Rue,Arcadia,SC,29320,Animal technologist,1381617099,1,1
+Derek Bentley,68,Male,3533177016567295,misc_pos,746.78,782 Lee Crossing Apt. 209,Weeping Water,NE,68463,Dealer,1373879119,0,1
+Jamie Carr,48,Female,4169759661243568,shopping_pos,846.86,55363 Aaron Circle Suite 450,Lawn,PA,17041,Special educational needs teacher,1387032478,0,1
+Juan Henry,56,Male,4710826438164847414,grocery_pos,359.29,9795 Lori Island Suite 346,Turner,MT,59542,Further education lecturer,1380837872,1,1
+Mario Johns,85,Male,341283058448499,shopping_net,1044.98,62130 Miller Square Suite 785,Brinson,GA,39825,"Engineer, broadcasting (operations)",1378421933,1,1
+Shannon Bell,43,Female,375082648741747,gas_transport,13.63,2918 David Spurs,Georgetown,MN,56546,"Research officer, trade union",1375842237,1,1
+Melody Thompson,67,Female,4586260469584,gas_transport,19.23,0362 Anderson Wall,Mound City,MO,64470,Architect,1379119603,1,1
+Tyler Wright,40,Male,340953839692349,grocery_net,11.42,615 Clarke Spring Apt. 172,Warren,MI,48088,"Doctor, hospital",1372306396,0,1
+Ruth Fuller,53,Female,344342339068828,shopping_net,1113.91,37732 Joe Courts Apt. 752,Darien,GA,31305,Tax adviser,1381188667,1,1
+Kyle Wright,52,Male,6597248210463122,grocery_pos,320.67,610 Samantha Park Suite 149,Whittemore,IA,50598,Optometrist,1381196656,1,1
+Amanda Alexander,54,Female,3527063666782582,gas_transport,20.39,21810 James Mall,Camden,TX,75934,Colour technologist,1381892840,1,1
+Steven Williams,72,Male,6011360759745864,entertainment,640.2,231 Flores Pass Suite 720,Edinburg,VA,22824,"Designer, multimedia",1375265297,0,1
+Jennifer Jones,84,Female,583699482621,shopping_net,1104.35,5572 Kelly Plains Apt. 952,Waupaca,WI,54981,"Engineer, civil (contracting)",1377523060,1,1
+Diana Jacobs,34,Female,4761403817546679245,misc_net,778.42,69608 Perez Mountain Apt. 006,Viola,AR,72583,Psychiatric nurse,1372568700,1,1
+Gary Barnes,34,Male,6011492816282597,grocery_pos,273.42,2970 Flores Brooks,Smackover,AR,71762,Financial adviser,1386990166,1,1
+Thomas Gibson,72,Male,348253506557335,grocery_pos,321.55,32745 Silva Springs Suite 040,Grand Bay,AL,36541,Armed forces logistics/support/administrative officer,1375694824,1,1
+Morgan James,57,Female,3550412175018089,shopping_net,1113.85,742 Sellers Ferry,Lexington,KY,40502,Software engineer,1378338880,1,1
+Justin Bell,33,Male,4710792708725663,gas_transport,9.36,954 Green Wall,Churubusco,IN,46723,"Research officer, trade union",1384838653,1,1
+Mike Tran,95,Male,2358122155477959,grocery_net,9.69,17355 Mendoza Bypass Suite 059,Linthicum Heights,MD,21090,"Conservator, furniture",1375501758,1,1
+Bruce Hall,63,Male,503851367360,shopping_pos,952.8,77686 Donald Bridge Apt. 711,Grifton,NC,28530,Forensic psychologist,1373395763,1,1
+Dennis Davidson,61,Male,180098888332620,misc_net,790.54,08469 Trujillo Forge,Springville,NY,14141,"Scientist, research (maths)",1372111435,1,1
+Benjamin Robinson,57,Male,4195740185974,shopping_net,1078.15,0701 John Ranch,Portland,OR,97210,"Engineer, building services",1374535875,1,1
+Julian Price,43,Male,4312133045694601139,shopping_net,3344.72,086 Pierce Cove,Pikesville,MD,21208,Company secretary,1372011043,0,1
+Alicia Hawkins,87,Female,4505383113689,misc_net,722.27,507 John Overpass Suite 424,Harwood,MD,20776,Quantity surveyor,1385421729,1,1
+Wesley Parker,39,Male,4713464490314802,grocery_pos,309.7,7452 Browning Port,Mc Intosh,SD,57641,"Designer, industrial/product",1373251869,1,1
+Spencer Williams,61,Male,6596735789587928,shopping_net,1183.42,1145 Tony Drive Suite 080,Watertown,MN,55388,Licensed conveyancer,1377991252,1,1
+Rachel Lowe,38,Female,376445266762684,shopping_net,882.83,372 Jeffrey Course,Sutherland,NE,69165,Insurance broker,1375927667,1,1
+Edward Sanchez,58,Male,38859492057661,gas_transport,9.38,594 White Dale Suite 530,Malad City,ID,83252,Nature conservation officer,1383652181,1,1
+Christopher Miller,76,Male,213199865312311,misc_pos,1501.28,493 Fitzgerald Fields Suite 454,Varnell,GA,30756,Pensions consultant,1384071217,0,1
+Monica Lane,50,Female,213161869125933,shopping_net,979.79,3270 Scott Islands,East Andover,ME,4226,Animal nutritionist,1385167402,0,1
+Thomas Jenkins,46,Male,4379260813815979609,shopping_net,1582.33,93914 Gregory Via,Oakland,CA,94619,Barista,1379859760,0,1
+Timothy Simmons,43,Male,3563837241599446,grocery_pos,312.74,1049 John Ports Suite 057,Newberg,OR,97132,Research scientist (physical sciences),1377478212,1,1
+James Reese,62,Male,6517217825320610,shopping_pos,844.81,26975 Richardson Mills Apt. 402,Sontag,MS,39665,"Librarian, academic",1371950425,0,1
+Jeffrey Smith,42,Male,3534330126107879,misc_net,779.4,713 Scott Pike Apt. 712,Bridger,MT,59014,Chartered loss adjuster,1374271256,1,1
+Renee Jones,20,Female,4417677808209716,grocery_pos,277.3,914 Nancy Square,Birmingham,AL,35211,Operational investment banker,1378350448,1,1
+Matthew Myers,40,Male,3535808924394848,shopping_net,1033.84,4936 Michelle Points,Tower Hill,IL,62571,Radio broadcast assistant,1384384897,1,1
+Wesley Parker,39,Male,4713464490314802,grocery_pos,288.84,7452 Browning Port,Mc Intosh,SD,57641,"Designer, industrial/product",1373281554,1,1
+Richard Vance,34,Male,376656886990758,misc_net,869.31,169 Shelia Knoll Suite 753,Zavalla,TX,75980,"Designer, jewellery",1378781948,1,1
+Theresa Powell,43,Female,30199621383748,shopping_pos,896.5,117 Natasha Vista Suite 936,Leonard,TX,75452,Sub,1375838653,1,1
+Mary Williams,22,Female,4599285557366057,grocery_pos,278.59,00315 Ashley Valleys,Burrton,KS,67020,Gaffer,1382660129,1,1
+Joseph Nixon,55,Male,4500002361389,shopping_net,1060.92,86882 Desiree Camp Suite 047,Tyaskin,MD,21865,Music tutor,1388370590,0,1
+Travis Daniel,61,Male,2242176657877538,gas_transport,6.6,1327 Rose Causeway Apt. 610,Senatobia,MS,38668,Database administrator,1387684589,1,1
+John Lewis,18,Male,180020605265701,shopping_net,1017.05,7908 Derrick Mount,Morrowville,KS,66958,Chemical engineer,1380573716,1,1
+Patrick Bates,52,Male,586100864972,misc_net,737.94,4481 Maldonado Hollow,Kirkwood,NY,13795,Advertising account executive,1379974167,1,1
+Meredith Ayala,84,Female,630469040731,shopping_net,1098.94,7107 Henderson Station,Cascade Locks,OR,97014,Barrister,1383866373,1,1
+Christian Johns,33,Male,3540075240003197,shopping_net,1385.91,892 Solis Neck,Lonsdale,MN,55046,Chief Strategy Officer,1382274759,0,1
+Pamela Curtis,34,Female,3529597810116815,shopping_net,2371.66,8969 Fuentes Station Apt. 291,Mill Creek,PA,17060,Archaeologist,1387040761,0,1
+Linda Hurst,72,Female,374497717543058,grocery_pos,303.46,31701 Tucker Square Suite 893,Wilton,ND,58579,"Designer, ceramics/pottery",1376278696,1,1
+Marcia Molina,58,Female,4169388510116,grocery_pos,307.37,6744 Jimmy Extensions,Port Gibson,NY,14537,Database administrator,1383976913,1,1
+Tara Richards,74,Female,4658490815480264,misc_net,748.26,4879 Cristina Station,Keisterville,PA,15449,Systems developer,1377384403,1,1
+Dylan Bonilla,34,Male,639046421587,misc_net,759.36,2497 John Motorway Suite 922,Leetsdale,PA,15056,"Administrator, education",1387309324,1,1
+Haley Wagner,77,Female,6011975266774121,grocery_pos,312.19,05561 Farrell Crescent,Annapolis,MD,21405,"Accountant, chartered certified",1377637634,1,1
+Ashley Blanchard,60,Female,676245600876,home,356.16,292 Lowe Dam Suite 858,West Palm Beach,FL,33417,Historic buildings inspector/conservation officer,1373668008,0,1
+Douglas Willis,61,Male,6564459919350820,shopping_net,955.16,619 Jeremy Garden Apt. 681,Benton,WI,53803,Public relations officer,1371859145,1,1
+Veronica Burton,28,Female,38544312728630,shopping_net,1129.96,08932 Bonnie Stravenue,Bonita Springs,FL,34135,Claims inspector/assessor,1373509359,1,1
+Amy Flynn,70,Female,573283817795,grocery_pos,325.1,46095 Tara Fords,Jaffrey,NH,3452,"Surveyor, hydrographic",1382851225,1,1
+Ashley Robinson,85,Female,3592325941359225,entertainment,432.0,1007 Colton Forks,Hopewell,VA,23860,Purchasing manager,1375239057,0,1
+Richard Waters,74,Male,4428780983793657331,shopping_pos,1645.28,7683 Natasha Way Apt. 945,Waukesha,WI,53186,"Therapist, occupational",1374370339,0,1
+Frederick Robinson,55,Male,30510856607165,shopping_net,941.23,1125 Ray Track,Livonia,MI,48154,Horticultural consultant,1380926183,1,1
+Dawn Gray,15,Female,3576021480694169,misc_pos,799.31,9486 Joel Common Suite 554,Topeka,KS,66618,Secondary school teacher,1376433990,0,1
+Alicia Bishop,70,Female,676281772837,shopping_net,882.81,222 Freeman Islands,Whigham,GA,39897,"Editor, commissioning",1382916236,1,1
+Frederick Robinson,55,Male,30510856607165,shopping_net,1118.62,1125 Ray Track,Livonia,MI,48154,Horticultural consultant,1380929393,1,1
+Dylan Bonilla,34,Male,639046421587,shopping_net,1158.64,2497 John Motorway Suite 922,Leetsdale,PA,15056,"Administrator, education",1387237769,1,1
+Brent Terrell,54,Male,372382441451095,shopping_pos,1589.94,502 Rice Plaza Apt. 979,Port Ewen,NY,12466,Heritage manager,1383039502,0,1
+Kylie Kirby,24,Female,30434173205605,shopping_net,1402.47,79816 Jackson Squares,Shedd,OR,97377,Radio broadcast assistant,1372535645,0,1
+Kayla Sutton,69,Female,213180742685905,shopping_net,981.4,010 Weaver Land,Carlotta,CA,95528,"Therapist, occupational",1386540428,1,1
+Renee Jones,20,Female,4417677808209716,misc_net,739.85,914 Nancy Square,Birmingham,AL,35211,Operational investment banker,1378255610,1,1
+Kevin Walters,62,Male,377550167323848,misc_net,777.27,87227 Tapia Burgs,Auburn,ME,4210,Tourist information centre manager,1387058610,1,1
+Christopher Gilbert,50,Male,374125201044065,shopping_pos,691.7,20937 Reed Lakes Apt. 271,Washington,DC,20012,"Optician, dispensing",1382664299,0,1
+Nicholas Tran,65,Male,30546453310167,grocery_pos,335.68,672 Randall Burg Suite 551,Belmont,NH,3220,"Scientist, research (medical)",1385343442,1,1
+David Lewis,36,Male,374656033243756,shopping_net,2954.45,1499 Michael Rue,Arlington,VA,22213,Mudlogger,1372422291,0,1
+Richard Waters,74,Male,4428780983793657331,shopping_pos,1453.27,7683 Natasha Way Apt. 945,Waukesha,WI,53186,"Therapist, occupational",1376035385,0,1
+Scott Martin,43,Male,3502088871723054,misc_net,775.42,31472 Cody Place Suite 740,Kensington,MD,20895,Operations geologist,1376024339,0,1
+David Miller,36,Male,3589255887819806,grocery_pos,305.34,622 Bradley Knoll Apt. 758,Hancock,MD,21750,Press photographer,1372844153,1,1
+Joseph Spencer,74,Male,4981132848794,shopping_net,1212.06,7854 Stephanie Island Suite 788,Holloway,OH,43985,Child psychotherapist,1384589472,0,1
+Mark Wood,22,Male,2720433095629877,shopping_pos,789.29,854 Walker Dale Suite 488,Bowdoin,ME,4287,"Engineer, electronics",1372635613,0,1
+Dylan Bonilla,34,Male,639046421587,grocery_net,7.76,2497 John Motorway Suite 922,Leetsdale,PA,15056,"Administrator, education",1387247965,1,1
+Erica Walker,52,Female,180046165512893,shopping_net,983.38,084 Holmes Avenue Suite 206,Stayton,OR,97383,"Engineer, biomedical",1385414493,1,1
+Samuel Johnston,40,Male,6011348830550197,misc_net,732.78,16285 Jessica Lights,Birmingham,AL,35229,Musician,1387594655,0,1
+Monica Cohen,37,Female,4512828414983801773,misc_net,831.67,864 Reynolds Plains,Uledi,PA,15484,Tree surgeon,1380254644,0,1
+Amy Daugherty,22,Female,4335531783520911,shopping_net,1185.77,852 Thomas Well Suite 339,Owensville,MO,65066,Naval architect,1376264164,1,1
+Christopher Cummings,52,Male,675961917837,grocery_pos,309.97,478 George Course Apt. 056,Sprague,NE,68438,Chiropodist,1373507036,1,1
+Danielle Allen,68,Female,3501365119557234,misc_net,611.33,87198 Macias Drive Suite 389,Loving,NM,88256,Educational psychologist,1380714650,0,1
+David Wolfe,45,Male,676369110710,grocery_pos,304.17,81261 Garcia Underpass Suite 741,Southfield,MI,48034,"Engineer, automotive",1379993904,1,1
+Kathleen Heath,53,Female,2288748891690227,shopping_net,2965.05,9297 Victor Rest Apt. 382,Albuquerque,NM,87116,Charity officer,1386127731,0,1
+Mary Schmidt,63,Female,180040027502291,shopping_net,982.07,022 Moore Island,New York City,NY,10162,Audiological scientist,1387146164,1,1
+Stephanie Crane,65,Female,30487648872433,gas_transport,20.25,144 Martinez Curve,Central,IN,47110,Counsellor,1384308312,1,1
+Jennifer Jones,84,Female,583699482621,shopping_net,313.77,5572 Kelly Plains Apt. 952,Waupaca,WI,54981,"Engineer, civil (contracting)",1375497248,0,1
+Curtis Young,49,Male,30029052116970,grocery_pos,303.68,4319 Watson Shoals Suite 658,Falconer,NY,14733,Metallurgist,1379469770,1,1
+Spencer Williams,61,Male,6596735789587928,grocery_pos,284.36,1145 Tony Drive Suite 080,Watertown,MN,55388,Licensed conveyancer,1377832799,1,1
+Stephanie Murphy,50,Female,3573386445588324,entertainment,614.72,526 Stacy Walks,Barnard,SD,57426,Systems developer,1372373713,1,1
+Thomas Hale,36,Male,2229378226512508,shopping_net,1090.29,949 Smith Parkway,Cazenovia,WI,53924,Occupational hygienist,1383607584,1,1
+Vanessa Anderson,26,Female,4989847570577635369,shopping_net,909.86,21178 Brittney Locks,Prosperity,SC,29127,Archaeologist,1386446381,0,1
+Stephanie Allen,52,Female,347399333635231,grocery_pos,318.43,13128 Hall Station Suite 588,Seligman,MO,65745,"Engineer, biomedical",1380924018,1,1
+Michael Williams,47,Male,4292743669224718067,gas_transport,10.0,35822 Clayton Street Apt. 679,Great Mills,MD,20634,Art therapist,1386288986,1,1
+Mary Myers,55,Female,4599735407877245080,misc_pos,665.39,39787 Pamela Fall Suite 639,Tiptonville,TN,38079,Geochemist,1379676521,0,1
+Debbie Payne,43,Female,4026222041577,personal_care,21.87,204 Ashley Neck Apt. 169,Preston,CT,6365,Broadcast presenter,1372714991,0,1
+Renee Walls,61,Female,4306586894261180,grocery_pos,292.42,86542 Jessica Fords Apt. 706,Veedersburg,IN,47987,"Development worker, community",1381895749,1,1
+Christopher Adkins,38,Male,4103158249977,shopping_net,1084.29,3512 Knight Center,Lorenzo,TX,79343,Petroleum engineer,1384125632,1,1
+Ashley Whitehead,37,Female,6592861994408652,grocery_net,7.4,58188 Madison Meadow Apt. 949,Cowlesville,NY,14037,Colour technologist,1385449807,0,1
+Brittany Cox,59,Female,676173792455,shopping_net,1249.11,07177 William Dale Apt. 547,Santa Monica,CA,90403,"Civil engineer, contracting",1382527647,0,1
+Christopher Matthews,38,Male,378006354724784,grocery_net,7.99,433 John Heights Apt. 849,Etlan,VA,22719,Senior tax professional/tax inspector,1384483586,1,1
+Tamara Martinez,41,Female,30518206766474,misc_net,595.55,471 Marquez Prairie Suite 680,Matthews,MO,63867,Aeronautical engineer,1378479997,0,1
+Robert Andrade,32,Male,2454076758463217,grocery_pos,275.16,27720 Martin Hills,Remer,MN,56672,Insurance risk surveyor,1374173038,1,1
+David Wolfe,45,Male,676369110710,grocery_pos,275.59,81261 Garcia Underpass Suite 741,Southfield,MI,48034,"Engineer, automotive",1379991719,1,1
+Frederick Robinson,55,Male,30510856607165,shopping_net,1098.48,1125 Ray Track,Livonia,MI,48154,Horticultural consultant,1380926207,1,1
+Kyle Wright,52,Male,6597248210463122,misc_net,740.92,610 Samantha Park Suite 149,Whittemore,IA,50598,Optometrist,1381276354,1,1
+Amanda Alexander,54,Female,3527063666782582,shopping_net,1030.08,21810 James Mall,Camden,TX,75934,Colour technologist,1381877365,1,1
+Roberta Mccarthy,47,Female,375974680629816,shopping_net,1310.64,94431 Matthew Mall Suite 296,Plymouth,CT,6782,Herpetologist,1378574110,0,1
+Vincent Cain,74,Male,30570197515105,grocery_pos,269.66,64851 Cole Turnpike,Hartford,AL,36344,Jewellery designer,1381981269,1,1
+Chris Dixon,30,Male,3576281490078437,misc_net,710.75,919 Miller Isle,Williams,IN,47470,Financial adviser,1375399606,1,1
+Thomas Jenkins,46,Male,4379260813815979609,shopping_pos,1045.52,93914 Gregory Via,Oakland,CA,94619,Barista,1384380893,0,1
+Monica Tucker,21,Female,4653879239169997,grocery_pos,301.61,302 Christina Islands,Smiths Grove,KY,42171,"Therapist, sports",1375498877,1,1
+Tommy Dixon,67,Male,30491348102802,shopping_net,1135.07,8829 Steele Station,Dresden,KS,67635,"Librarian, public",1383781338,1,1
+Kenneth Edwards,65,Male,4671727014157745,grocery_pos,330.12,3653 Ryan Crossroad,Andrews,IN,46702,Retail banker,1374990102,1,1
+Ricky Dunn,37,Male,3500165543009955,shopping_net,913.17,97689 Davis Point Apt. 967,Detroit,MI,48214,Health visitor,1385243565,1,1
+Debbie Payne,43,Female,4026222041577,misc_net,736.63,204 Ashley Neck Apt. 169,Preston,CT,6365,Broadcast presenter,1383264493,1,1
+Sara Ramirez,32,Female,3596217206093829,shopping_net,1334.9,23843 Scott Island,Birmingham,IA,52535,Camera operator,1387110451,0,1
+Melissa Phillips,59,Female,501882822387,shopping_net,1166.0,5069 Scott Pass Apt. 654,Meadville,MS,39653,"Therapist, horticultural",1373585268,1,1
+Lauren Anderson,48,Female,4716561796955522,grocery_pos,338.6,11014 Chad Lake Apt. 573,Heart Butte,MT,59448,Water engineer,1387585283,1,1
+Justin Bell,33,Male,4710792708725663,shopping_net,945.16,954 Green Wall,Churubusco,IN,46723,"Research officer, trade union",1384812367,1,1
+Brent Terrell,54,Male,372382441451095,shopping_net,1046.28,502 Rice Plaza Apt. 979,Port Ewen,NY,12466,Heritage manager,1377036430,1,1
+Brian Hogan,60,Male,4972228199573984,shopping_net,1023.43,3316 Cindy Land,Lane,OK,74555,Quantity surveyor,1385245042,1,1
+Danielle Walker,66,Female,30181367542315,shopping_net,986.24,9824 Mitchell Run,Powell Butte,OR,97753,Local government officer,1372206801,0,1
+Kyle Wright,52,Male,6597248210463122,entertainment,637.33,610 Samantha Park Suite 149,Whittemore,IA,50598,Optometrist,1381184081,1,1
+Richard Waters,74,Male,4428780983793657331,shopping_net,995.02,7683 Natasha Way Apt. 945,Waukesha,WI,53186,"Therapist, occupational",1374361239,1,1
+Edward Hensley,34,Male,676275912597,shopping_net,850.57,24318 Dixon Mills,Elk Rapids,MI,49629,Chief Financial Officer,1385578000,1,1
+Christopher Castaneda,53,Male,3514865930894695,shopping_net,1440.65,1632 Cohen Drive Suite 639,High Rolls Mountain Park,NM,88325,Naval architect,1387521639,0,1
+Thomas Gibson,72,Male,348253506557335,grocery_pos,332.71,32745 Silva Springs Suite 040,Grand Bay,AL,36541,Armed forces logistics/support/administrative officer,1375833234,1,1
+Christopher Gilbert,50,Male,374125201044065,shopping_net,1121.05,20937 Reed Lakes Apt. 271,Washington,DC,20012,"Optician, dispensing",1387495157,1,1
+Jeffrey Smith,42,Male,3534330126107879,shopping_net,843.65,713 Scott Pike Apt. 712,Bridger,MT,59014,Chartered loss adjuster,1374275440,1,1
+Susan Mills,68,Female,571844099986,grocery_pos,344.74,005 Cody Estates,Louisville,KY,40202,Engineering geologist,1372493800,1,1
+Debra Eaton,85,Female,378858024506425,shopping_net,1008.11,72743 Brian Run,Paradise Valley,AZ,85253,Building surveyor,1382139539,1,1
+Mary Humphrey,25,Female,3577794103155425,misc_net,772.78,9853 Flynn Hollow Apt. 602,Reynolds,ND,58275,Visual merchandiser,1375494622,1,1
+Bryan Torres,53,Male,6540981358631302,misc_net,929.98,152 James Centers Apt. 768,Detroit,MI,48221,Retail manager,1377919860,0,1
+Lori Bishop,20,Female,3501942333500073,misc_net,870.55,08056 Alvarado Club Suite 699,Phoenix,AZ,85086,Counselling psychologist,1381796449,1,1
+Erika Mason,78,Female,180046617132290,grocery_pos,288.17,083 Karen Island Apt. 656,Goreville,IL,62939,"Teacher, secondary school",1382725549,1,1
+Brian Simpson,53,Male,4225990116481262579,shopping_net,1197.41,2711 Duran Pines,Honokaa,HI,96727,Physiotherapist,1374575835,0,1
+Mario Johns,85,Male,341283058448499,grocery_pos,323.22,62130 Miller Square Suite 785,Brinson,GA,39825,"Engineer, broadcasting (operations)",1378346697,1,1
+Vincent Waller,66,Male,4623560839669,shopping_net,992.81,9379 Vanessa Run Apt. 400,Lohrville,IA,51453,Administrator,1378579488,1,1
+Lawrence Davis,51,Male,377654590313960,shopping_net,895.63,7421 Serrano Lane Apt. 580,Powell,TN,37849,"Teacher, special educational needs",1384499355,0,1
+Kayla Jones,32,Female,342952484382519,shopping_net,871.05,6033 Young Track Suite 804,East Canaan,CT,6024,Comptroller,1373650475,0,1
+Gregory Wallace,44,Male,503848303379,misc_net,614.65,27203 Darrell Landing,Saint James City,FL,33956,Sport and exercise psychologist,1385027741,0,1
+Margaret Williams,94,Female,4509142395811241,shopping_net,1236.28,165 Jerry Meadows Suite 460,Surrency,GA,31563,"Engineer, technical sales",1378246871,1,1
+Meredith Ayala,84,Female,630469040731,shopping_net,964.13,7107 Henderson Station,Cascade Locks,OR,97014,Barrister,1372754709,0,1
+Robert Andrade,32,Male,2454076758463217,shopping_net,958.05,27720 Martin Hills,Remer,MN,56672,Insurance risk surveyor,1374185378,1,1
+Richard Waters,74,Male,4428780983793657331,shopping_net,960.91,7683 Natasha Way Apt. 945,Waukesha,WI,53186,"Therapist, occupational",1374361514,1,1
+Billy Mcdonald,61,Male,341542810616333,misc_net,830.7,304 Ryan Port Suite 335,Camden,MO,64017,Colour technologist,1381879227,1,1
+Monica Tucker,21,Female,4653879239169997,shopping_net,891.63,302 Christina Islands,Smiths Grove,KY,42171,"Therapist, sports",1375658659,1,1
+Amanda Fitzgerald,35,Female,370612217861404,gas_transport,12.01,298 Kayla Lights,Bristol,PA,19007,"Administrator, charities/voluntary organisations",1383525867,1,1
+Mary Schmidt,63,Female,180040027502291,grocery_pos,309.95,022 Moore Island,New York City,NY,10162,Audiological scientist,1387157725,1,1
+Brian Hogan,60,Male,4972228199573984,grocery_pos,353.11,3316 Cindy Land,Lane,OK,74555,Quantity surveyor,1385261474,1,1
+Frank Foster,45,Male,4481131401752,grocery_pos,317.37,37910 Ward Lights,Shrewsbury,MA,1545,English as a second language teacher,1382413621,1,1
+Christian Roman,46,Male,3587044315915002,misc_net,760.29,495 Fisher Throughway,Grand Junction,TN,38039,Clothing/textile technologist,1385493842,1,1
+Danielle Yu,44,Female,30238755902988,home,255.05,5395 Colon Burgs Suite 037,Thrall,TX,76578,Press sub,1377212429,0,1
+Stephanie Gill,42,Female,630423337322,grocery_pos,354.08,43039 Riley Greens Suite 393,Orient,WA,99160,Special educational needs teacher,1386212695,1,1
+John Clarke,58,Male,30290551782700,shopping_net,1041.01,27909 Peter Motorway,Cadiz,KY,42211,Commissioning editor,1375051373,1,1
+Rachel Williams,83,Female,4883407061576,shopping_net,974.36,6386 Bailey Hill Apt. 421,Seattle,WA,98118,Systems developer,1382742373,1,1
+Patricia Leach,33,Female,3528407217576457,shopping_net,1536.55,71309 Martinez Stravenue,Kingsport,TN,37663,Warden/ranger,1378672328,0,1
+Morgan James,57,Female,3550412175018089,shopping_pos,1050.65,742 Sellers Ferry,Lexington,KY,40502,Software engineer,1378425142,1,1
+Jeffery Brown,56,Male,3585052663373890,shopping_pos,847.92,296 Maria Street,West Eaton,NY,13484,Science writer,1380813517,1,1
+James Reese,62,Male,6517217825320610,shopping_net,965.23,26975 Richardson Mills Apt. 402,Sontag,MS,39665,"Librarian, academic",1387702110,0,1
+Maureen Garza,60,Female,4306630852918,shopping_net,1377.36,169 Edward Inlet,Saint Louis,MO,63131,Occupational hygienist,1381319761,0,1
+Richard Vance,34,Male,376656886990758,gas_transport,11.7,169 Shelia Knoll Suite 753,Zavalla,TX,75980,"Designer, jewellery",1378781127,1,1
+Christopher Matthews,38,Male,378006354724784,grocery_pos,269.38,433 John Heights Apt. 849,Etlan,VA,22719,Senior tax professional/tax inspector,1384578074,1,1
+Tyler Garcia,34,Male,375534208663984,grocery_pos,317.09,408 Bradley Rest,Doe Hill,VA,24433,Dance movement psychotherapist,1374357770,1,1
+Lori Bishop,20,Female,3501942333500073,misc_net,862.79,08056 Alvarado Club Suite 699,Phoenix,AZ,85086,Counselling psychologist,1381681689,0,1
+Heather Hines,58,Female,4740713119940984,shopping_net,976.13,13776 Hicks Plains,Pomona,NY,10970,Pensions consultant,1382741396,1,1
+Brent Terrell,54,Male,372382441451095,shopping_net,1033.25,502 Rice Plaza Apt. 979,Port Ewen,NY,12466,Heritage manager,1377125871,1,1
+Kenneth Doyle,43,Male,30235268718158,misc_net,779.85,8614 Reed Glen,West Harrison,NY,10604,Lexicographer,1380429711,0,1
+Kimberly Bush,74,Female,4462038234743679432,grocery_pos,315.89,6027 Scott Meadows Suite 494,Dell City,TX,79837,Hydrogeologist,1373071475,1,1
+Mary Schmidt,63,Female,180040027502291,shopping_pos,1038.53,022 Moore Island,New York City,NY,10162,Audiological scientist,1387151659,1,1
+Jennifer Jones,84,Female,583699482621,shopping_pos,1091.15,5572 Kelly Plains Apt. 952,Waupaca,WI,54981,"Engineer, civil (contracting)",1378513897,0,1
+Christopher White,67,Male,3560336828629935,shopping_net,1013.2,13613 Hammond Ferry,Clutier,IA,52217,"Embryologist, clinical",1384121049,1,1
+David Thomas,57,Male,3565943051129759,shopping_pos,1581.27,838 Dan Haven Suite 003,Webster City,IA,50595,Medical secretary,1376801382,0,1
+Richard Waters,74,Male,4428780983793657331,misc_pos,308.41,7683 Natasha Way Apt. 945,Waukesha,WI,53186,"Therapist, occupational",1376098337,0,1
+Jeffrey Krause,31,Male,5410056176712193,grocery_pos,270.75,4742 Alexandria Mountain,New Franken,WI,54229,Art therapist,1385426138,1,1
+Matthew Myers,40,Male,3535808924394848,shopping_net,1113.48,4936 Michelle Points,Tower Hill,IL,62571,Radio broadcast assistant,1384299779,1,1
+Erica Walker,52,Female,180046165512893,shopping_net,1070.99,084 Holmes Avenue Suite 206,Stayton,OR,97383,"Engineer, biomedical",1385420453,1,1
+Vincent Mueller,61,Male,4605902936394,shopping_net,1318.6,79019 Taylor Cliffs,Dallas,TX,75238,Drilling engineer,1385801996,0,1
+Shannon Bell,43,Female,375082648741747,grocery_net,8.22,2918 David Spurs,Georgetown,MN,56546,"Research officer, trade union",1375927492,1,1
+Edward Hensley,34,Male,676275912597,misc_net,836.06,24318 Dixon Mills,Elk Rapids,MI,49629,Chief Financial Officer,1385596515,1,1
+Mary Schmidt,62,Female,180040027502291,shopping_net,1478.51,022 Moore Island,New York City,NY,10162,Audiological scientist,1385184575,0,1
+Jessica Shaw,91,Female,4488258847705225890,shopping_pos,1153.92,5745 Blair Locks,West Columbia,SC,29170,Chemical engineer,1376615648,0,1
+Evan Santiago,51,Male,180052752563109,misc_net,920.01,9652 Ford Ford Apt. 566,Arlington,VA,22204,Historic buildings inspector/conservation officer,1378044660,1,1
+Steven Faulkner,67,Male,3514897282719543,shopping_pos,915.25,841 Cheryl Centers Suite 115,Farmington,NY,14425,Cytogeneticist,1373670758,1,1
+Lawrence Ellis,58,Male,4134456652433447,shopping_net,900.34,1471 Alicia Flat Apt. 993,Springfield Gardens,NY,11413,Production manager,1378543678,0,1
+Steven Walters,41,Male,4476840372112,misc_net,762.62,3206 Hall Divide Suite 282,Woodville,AL,35776,"Editor, commissioning",1375929639,1,1
+Ricky Dunn,37,Male,3500165543009955,shopping_net,963.57,97689 Davis Point Apt. 967,Detroit,MI,48214,Health visitor,1385247970,1,1
+Derrick Flores,27,Male,3597926034019603,misc_net,703.01,83690 Nicholas Ports Apt. 846,Oakland,TN,38060,Furniture conservator/restorer,1387501738,0,1
+April Johnson,32,Female,30197398657930,home,259.8,9727 Deleon Mountain,Creedmoor,NC,27522,Chief Strategy Officer,1373154491,1,1
+Juan Henry,56,Male,4710826438164847414,entertainment,669.67,9795 Lori Island Suite 346,Turner,MT,59542,Further education lecturer,1380755440,1,1
+Jason Johnson,23,Male,3588001568691267,grocery_pos,298.76,5942 Thomas Park,Craig,AK,99921,Commissioning editor,1386030993,1,1
+Roberta Mccarthy,47,Female,375974680629816,shopping_net,1009.75,94431 Matthew Mall Suite 296,Plymouth,CT,6782,Herpetologist,1376970571,1,1
+Crystal Fuller,36,Female,3586008444788268,gas_transport,8.06,000 Jennifer Mills,Issaquah,WA,98027,Osteopath,1372558282,1,1
+Patrick Bates,52,Male,586100864972,shopping_net,966.79,4481 Maldonado Hollow,Kirkwood,NY,13795,Advertising account executive,1379977889,1,1
+Randall Dillon,77,Male,60495593109,gas_transport,8.45,4440 George Mills Suite 591,Dallas,TX,75210,Television camera operator,1380336041,1,1
+Tyler Garcia,34,Male,375534208663984,grocery_pos,325.81,408 Bradley Rest,Doe Hill,VA,24433,Dance movement psychotherapist,1374279103,1,1
+Benjamin Rogers,25,Male,3586955669388457,shopping_net,1107.27,24191 Elizabeth Mill,Bolivar,PA,15923,"Administrator, local government",1381100120,1,1
+Lauren Williams,38,Female,4874017206859125,entertainment,470.09,065 Jones Stravenue,Lake Oswego,OR,97034,Planning and development surveyor,1377951728,0,1
+Gary Barnes,34,Male,6011492816282597,gas_transport,9.43,2970 Flores Brooks,Smackover,AR,71762,Financial adviser,1386990528,1,1
+Kevin Walters,62,Male,377550167323848,misc_net,938.8,87227 Tapia Burgs,Auburn,ME,4210,Tourist information centre manager,1387024144,1,1
+Tara Richards,74,Female,4658490815480264,shopping_pos,675.79,4879 Cristina Station,Keisterville,PA,15449,Systems developer,1377383647,1,1
+Derrick Flores,27,Male,3597926034019603,misc_net,586.09,83690 Nicholas Ports Apt. 846,Oakland,TN,38060,Furniture conservator/restorer,1378605110,1,1
+Jeffrey Krause,31,Male,5410056176712193,shopping_pos,868.43,4742 Alexandria Mountain,New Franken,WI,54229,Art therapist,1385506778,1,1
+Tyler Small,44,Male,3579200383632826,shopping_net,930.27,047 Kevin Haven,Boyd,WI,54726,IT trainer,1373843289,1,1
+Renee Jones,20,Female,4417677808209716,shopping_net,953.66,914 Nancy Square,Birmingham,AL,35211,Operational investment banker,1378424476,1,1
+Mark Brown,80,Male,341546199006537,shopping_net,1169.14,8580 Moore Cove,Wales,AK,99783,"Administrator, education",1380264160,0,1
+David Miller,36,Male,3589255887819806,misc_net,709.43,622 Bradley Knoll Apt. 758,Hancock,MD,21750,Press photographer,1372981443,1,1
+Matthew Myers,40,Male,3535808924394848,gas_transport,11.02,4936 Michelle Points,Tower Hill,IL,62571,Radio broadcast assistant,1384303685,1,1
+Grace Williams,50,Female,3523843138706408,shopping_net,1322.53,28812 Charles Mill Apt. 628,Plantersville,AL,36758,Drilling engineer,1386088483,0,1
+Monica Cohen,37,Female,4512828414983801773,misc_pos,735.07,864 Reynolds Plains,Uledi,PA,15484,Tree surgeon,1377394084,1,1
+Brian Hogan,60,Male,4972228199573984,shopping_net,988.52,3316 Cindy Land,Lane,OK,74555,Quantity surveyor,1385248734,1,1
+Jason Johnson,23,Male,3588001568691267,grocery_pos,333.42,5942 Thomas Park,Craig,AK,99921,Commissioning editor,1386029650,1,1
+William Hunter,51,Male,180069253480336,entertainment,664.26,5036 Victoria Ports Suite 249,Emporium,PA,15834,Public affairs consultant,1382246326,0,1
+Adam Santos,38,Male,213156747557083,gas_transport,9.79,725 Jo Trace Apt. 102,Glendale,CA,91206,Advertising account planner,1386122668,1,1
+Stephen Marshall,41,Male,4173950183554608,shopping_net,965.21,47144 Roberts Keys,Monmouth Beach,NJ,7750,Health promotion specialist,1378852945,1,1
+Philip Hart,25,Male,6592243974328236,shopping_pos,1048.85,97405 Vazquez Plains,Montgomery,AL,36111,"Chemist, analytical",1376250173,0,1
+Vincent Waller,66,Male,4623560839669,shopping_net,1023.35,9379 Vanessa Run Apt. 400,Lohrville,IA,51453,Administrator,1378598378,1,1
+Dalton Jones,62,Male,30242921189660,grocery_pos,338.05,3304 Hernandez Run,Afton,MI,49705,Technical brewer,1384303687,1,1
+David White,48,Male,60487002085,grocery_pos,337.39,66234 Hall Lock Suite 758,Jackson,MS,39211,"Horticulturist, commercial",1379812311,1,1
+Peter Edwards,55,Male,570273151375,grocery_pos,315.06,96122 Steven Flat,Allentown,GA,31003,"Lecturer, higher education",1378764306,1,1
+Richard Waters,74,Male,4428780983793657331,gas_transport,11.61,7683 Natasha Way Apt. 945,Waukesha,WI,53186,"Therapist, occupational",1374201309,1,1
+Laura Johns,31,Female,38530489946071,gas_transport,9.45,95835 Garcia Rue,Arcadia,SC,29320,Animal technologist,1381450716,1,1
+Thomas Hale,36,Male,2229378226512508,misc_net,833.6,949 Smith Parkway,Cazenovia,WI,53924,Occupational hygienist,1383694971,1,1
+Kevin Walters,62,Male,377550167323848,misc_net,1757.21,87227 Tapia Burgs,Auburn,ME,4210,Tourist information centre manager,1381369888,0,1
+Diana Jacobs,34,Female,4761403817546679245,shopping_net,1071.19,69608 Perez Mountain Apt. 006,Viola,AR,72583,Psychiatric nurse,1372488959,1,1
+Gina Gomez,50,Female,6595970453799027,shopping_net,1171.12,72030 Shelton Crossing Apt. 742,Stirling,NJ,7980,Science writer,1375914393,1,1
+Gina Gomez,50,Female,6595970453799027,gas_transport,21.44,72030 Shelton Crossing Apt. 742,Stirling,NJ,7980,Science writer,1375835487,1,1
+Dennis Davidson,61,Male,180098888332620,misc_net,723.23,08469 Trujillo Forge,Springville,NY,14141,"Scientist, research (maths)",1372111631,1,1
+Kyle Wright,52,Male,6597248210463122,shopping_pos,798.05,610 Samantha Park Suite 149,Whittemore,IA,50598,Optometrist,1381271529,1,1
+Alicia Bishop,70,Female,676281772837,shopping_net,998.31,222 Freeman Islands,Whigham,GA,39897,"Editor, commissioning",1382914615,1,1
+Kyle Wright,52,Male,6597248210463122,grocery_pos,334.54,610 Samantha Park Suite 149,Whittemore,IA,50598,Optometrist,1381186778,1,1
+Brooke Smith,51,Female,3560725013359375,misc_net,701.52,63542 Luna Brook Apt. 012,Notrees,TX,79759,Cytogeneticist,1386063500,0,1
+William Perry,26,Male,4005676619255478,shopping_net,931.82,458 Phillips Island Apt. 768,Denham Springs,LA,70726,Herbalist,1371857727,1,1
+Thomas Hale,36,Male,2229378226512508,grocery_net,10.21,949 Smith Parkway,Cazenovia,WI,53924,Occupational hygienist,1383620826,1,1
+Laura Walker,60,Female,2297447006766555,grocery_pos,287.86,611 Michael Rue,Cisco,IL,61830,Landscape architect,1380933012,1,1
+Lauren Moreno,79,Female,3528231451607350,grocery_pos,307.33,83719 Wilson Shore,Heislerville,NJ,8324,Exercise physiologist,1372562869,1,1
+Debra Eaton,85,Female,378858024506425,grocery_pos,295.82,72743 Brian Run,Paradise Valley,AZ,85253,Building surveyor,1382055151,1,1
+Melody Thompson,67,Female,4586260469584,grocery_pos,305.08,0362 Anderson Wall,Mound City,MO,64470,Architect,1379199616,1,1
+Thomas Hale,36,Male,2229378226512508,shopping_net,816.2,949 Smith Parkway,Cazenovia,WI,53924,Occupational hygienist,1383603380,1,1
+Benjamin Martin,71,Male,371985236239474,misc_pos,875.71,0495 Baker Manors,Oriskany Falls,NY,13425,"Programmer, multimedia",1378427990,0,1
+Michael Williams,47,Male,4292743669224718067,shopping_net,1686.86,35822 Clayton Street Apt. 679,Great Mills,MD,20634,Art therapist,1383675526,0,1
+Michael Jackson,53,Male,377834944388609,grocery_pos,313.62,539 Underwood Divide,Pea Ridge,AR,72751,Product designer,1385870895,1,1
+Mary Williams,22,Female,4599285557366057,shopping_net,1034.66,00315 Ashley Valleys,Burrton,KS,67020,Gaffer,1382738964,1,1
+Destiny Fowler,22,Female,4295296907373,misc_net,614.29,007 Tonya Isle Suite 299,Wever,IA,52658,Quantity surveyor,1382733800,1,1
+Erica Walker,52,Female,180046165512893,misc_net,835.51,084 Holmes Avenue Suite 206,Stayton,OR,97383,"Engineer, biomedical",1385498118,1,1
+Sarah Foster,44,Female,30266994494236,entertainment,603.08,77872 Andrea Glen Apt. 543,Ford,VA,23850,Chief Operating Officer,1386023229,1,1
+Christopher Gilbert,50,Male,374125201044065,grocery_pos,297.87,20937 Reed Lakes Apt. 271,Washington,DC,20012,"Optician, dispensing",1387414122,1,1
+Kenneth Doyle,43,Male,30235268718158,grocery_pos,306.22,8614 Reed Glen,West Harrison,NY,10604,Lexicographer,1385003858,1,1
+Lauren Moreno,79,Female,3528231451607350,shopping_net,970.38,83719 Wilson Shore,Heislerville,NJ,8324,Exercise physiologist,1372634178,1,1
+Christopher Patterson,58,Male,375767678113375,travel,2157.7,16744 Campbell Wall Apt. 372,Timberville,VA,22853,Waste management officer,1377040807,0,1
+Keith Sanders,21,Male,3545109339866548,misc_net,650.8,8030 Beck Motorway,Moorhead,MS,38761,Chartered public finance accountant,1383150794,0,1
+Nicole Dominguez,51,Female,4087542780207162,gas_transport,8.08,537 Brian Island,Guthrie,OK,73044,Retail manager,1383277130,1,1
+Casey Howell,54,Female,4186530744674,shopping_net,2383.68,374 Christopher Ramp Suite 855,Blackville,SC,29817,Technical brewer,1386157372,0,1
+Walter Blair,62,Male,2229824890647120,misc_pos,767.76,44951 Williams Brooks,Pearlington,MS,39572,"Therapist, occupational",1381570800,0,1
+Keith Sanders,21,Male,3545109339866548,grocery_pos,283.05,8030 Beck Motorway,Moorhead,MS,38761,Chartered public finance accountant,1386474078,1,1
+Patrick Bates,52,Male,586100864972,shopping_pos,1064.72,4481 Maldonado Hollow,Kirkwood,NY,13795,Advertising account executive,1380062605,1,1
+Brent Terrell,54,Male,372382441451095,grocery_pos,336.94,502 Rice Plaza Apt. 979,Port Ewen,NY,12466,Heritage manager,1377069742,1,1
+Edward Sanchez,58,Male,38859492057661,shopping_pos,846.21,594 White Dale Suite 530,Malad City,ID,83252,Nature conservation officer,1375790233,0,1
+Kayla Sutton,69,Female,213180742685905,grocery_pos,335.21,010 Weaver Land,Carlotta,CA,95528,"Therapist, occupational",1386469704,1,1
+Amy Daugherty,22,Female,4335531783520911,shopping_net,907.32,852 Thomas Well Suite 339,Owensville,MO,65066,Naval architect,1378678447,0,1
+Richard Waters,74,Male,4428780983793657331,shopping_net,1040.83,7683 Natasha Way Apt. 945,Waukesha,WI,53186,"Therapist, occupational",1374271533,1,1
+Brent Terrell,54,Male,372382441451095,gas_transport,22.4,502 Rice Plaza Apt. 979,Port Ewen,NY,12466,Heritage manager,1377054255,1,1
+Edward Sanchez,58,Male,38859492057661,shopping_net,1009.4,594 White Dale Suite 530,Malad City,ID,83252,Nature conservation officer,1383776271,1,1
+Melanie Jimenez,61,Female,213113028819344,entertainment,589.38,77944 Daniels Valley Suite 921,Camden,NY,13316,Building control surveyor,1384585342,0,1
+Mario Johns,85,Male,341283058448499,grocery_pos,337.99,62130 Miller Square Suite 785,Brinson,GA,39825,"Engineer, broadcasting (operations)",1378348472,1,1
+Nathan Mayer,51,Male,376012912828093,grocery_pos,306.33,478 Donovan Corners Apt. 803,Schaumburg,IL,60193,Claims inspector/assessor,1383178858,1,1
+Michele Patrick,63,Female,3582402971899057,gas_transport,8.77,557 Lynn Garden Suite 907,Spirit Lake,ID,83869,Production manager,1384944698,1,1
+Thomas Mathis,50,Male,2284059275940012,shopping_net,976.39,26615 Nelson Lane,Moores Hill,IN,47032,Sub,1376258768,1,1
+Peter Edwards,55,Male,570273151375,shopping_net,936.85,96122 Steven Flat,Allentown,GA,31003,"Lecturer, higher education",1378677844,1,1
+Tyler Small,44,Male,3579200383632826,gas_transport,10.04,047 Kevin Haven,Boyd,WI,54726,IT trainer,1373766816,1,1
+Nicole Dominguez,51,Female,4087542780207162,shopping_net,1046.08,537 Brian Island,Guthrie,OK,73044,Retail manager,1383262719,1,1
+Thomas Hale,36,Male,2229378226512508,grocery_pos,316.34,949 Smith Parkway,Cazenovia,WI,53924,Occupational hygienist,1383629171,1,1
+Jodi Rodriguez,43,Female,6538891242532018,entertainment,592.15,5796 Lee Coves Apt. 286,Walnut Ridge,AR,72476,"Engineer, control and instrumentation",1386715535,0,1
+Frederick Robinson,55,Male,30510856607165,grocery_pos,308.81,1125 Ray Track,Livonia,MI,48154,Horticultural consultant,1380943896,1,1
+Jennifer Banks,32,Female,2703186189652095,grocery_pos,332.91,561 Perry Cove,Moravian Falls,NC,28654,"Psychologist, counselling",1374196025,1,1
+Stephanie Murphy,50,Female,3573386445588324,gas_transport,18.25,526 Stacy Walks,Barnard,SD,57426,Systems developer,1372293738,1,1
+Justin Bell,47,Male,4158945090781624,shopping_net,1086.01,5323 Walker Island,Pittsburgh,PA,15217,"Scientist, marine",1383072890,0,1
+Susan Mills,68,Female,571844099986,misc_net,878.42,005 Cody Estates,Louisville,KY,40202,Engineering geologist,1372549246,1,1
+Melody Thompson,67,Female,4586260469584,shopping_net,1050.34,0362 Anderson Wall,Mound City,MO,64470,Architect,1379200371,1,1
+Melissa Phillips,59,Female,501882822387,shopping_pos,906.83,5069 Scott Pass Apt. 654,Meadville,MS,39653,"Therapist, horticultural",1373669637,1,1
+Meredith Ayala,84,Female,630469040731,grocery_pos,326.03,7107 Henderson Station,Cascade Locks,OR,97014,Barrister,1383872581,1,1
+Gina Grimes,23,Female,6538441737335434,shopping_net,1147.88,444 Robert Mews,Clarks Mills,PA,16114,Energy manager,1384985338,1,1
+Jennifer Jones,84,Female,583699482621,grocery_pos,278.02,5572 Kelly Plains Apt. 952,Waupaca,WI,54981,"Engineer, civil (contracting)",1377575117,1,1
+Christopher Ortega,63,Male,4423489490781412,shopping_pos,916.68,5045 Emily Wall,Princeton,IA,52768,Agricultural consultant,1387059924,1,1
+Vincent Cain,74,Male,30570197515105,grocery_pos,290.91,64851 Cole Turnpike,Hartford,AL,36344,Jewellery designer,1381985512,1,1
+Dylan Bonilla,34,Male,639046421587,shopping_pos,751.63,2497 John Motorway Suite 922,Leetsdale,PA,15056,"Administrator, education",1387321317,1,1
+Kimberly Gonzalez,44,Female,3590736522064285,entertainment,616.41,72966 Shannon Pass Apt. 391,Bauxite,AR,72011,"Scientist, audiological",1374840292,0,1
+David Wolfe,45,Male,676369110710,shopping_pos,672.95,81261 Garcia Underpass Suite 741,Southfield,MI,48034,"Engineer, automotive",1380067065,1,1
+Evan Santiago,51,Male,180052752563109,shopping_net,970.72,9652 Ford Ford Apt. 566,Arlington,VA,22204,Historic buildings inspector/conservation officer,1378061337,1,1
+Corey Jones,58,Male,501831082224,grocery_net,10.87,709 George Underpass Apt. 080,West Decatur,PA,16878,Armed forces logistics/support/administrative officer,1388376050,0,1
+Stephen Marshall,41,Male,4173950183554608,shopping_net,1102.11,47144 Roberts Keys,Monmouth Beach,NJ,7750,Health promotion specialist,1378769027,1,1
+David Everett,47,Male,3596357274378601,gas_transport,9.02,4138 David Fall,Morrisdale,PA,16858,Advice worker,1386807701,1,1
+Brenda Perez,35,Female,4607072969078276,entertainment,552.04,033 Tara Brook Suite 523,Coyle,OK,73027,Amenity horticulturist,1386891556,1,1
+Monica Tucker,21,Female,4653879239169997,grocery_pos,319.08,302 Christina Islands,Smiths Grove,KY,42171,"Therapist, sports",1375496380,1,1
+Robert Williams,25,Male,4798937978667559470,misc_net,779.91,09419 Lewis Rapids,Bay City,MI,48706,Water quality scientist,1387655187,0,1
+Chris White,31,Male,4003989662068504,shopping_net,1098.59,98897 Bennett Lodge,Bessemer,AL,35022,Radio broadcast assistant,1378161352,1,1
+Ashley Whitehead,37,Female,6592861994408652,misc_pos,797.93,58188 Madison Meadow Apt. 949,Cowlesville,NY,14037,Colour technologist,1383825813,0,1
+Craig Dunn,26,Male,180011453250192,grocery_pos,291.8,721 Jacqueline Brooks,New Boston,IL,61272,Manufacturing engineer,1375147328,1,1
+John Myers,38,Male,6544734391390261,shopping_net,917.11,701 Wilson Divide,Highland,IN,46322,Community arts worker,1372349643,1,1
+Bruce Hall,63,Male,503851367360,shopping_pos,915.47,77686 Donald Bridge Apt. 711,Grifton,NC,28530,Forensic psychologist,1373322604,1,1
+Walter Blair,62,Male,2229824890647120,shopping_pos,1555.38,44951 Williams Brooks,Pearlington,MS,39572,"Therapist, occupational",1378022378,0,1
+Jeffrey Krause,31,Male,5410056176712193,grocery_pos,267.74,4742 Alexandria Mountain,New Franken,WI,54229,Art therapist,1385433284,1,1
+Alyssa Morgan,57,Female,213161231269724,shopping_net,1134.41,622 Robin Run Suite 764,Gadsden,AL,35901,Physiological scientist,1372375602,1,1
+Vincent Waller,66,Male,4623560839669,gas_transport,16.5,9379 Vanessa Run Apt. 400,Lohrville,IA,51453,Administrator,1378519713,1,1
+Michael Olson,54,Male,30560609640617,misc_net,760.8,558 Michael Estates,Luray,MO,63453,Town planner,1377214535,1,1
+Alyssa Morgan,57,Female,213161231269724,grocery_pos,297.2,622 Robin Run Suite 764,Gadsden,AL,35901,Physiological scientist,1372210514,1,1
+Elizabeth Mckee,25,Female,4725837176265195730,entertainment,532.58,358 Pruitt Square,Jay,FL,32565,Higher education careers adviser,1375493725,1,1
+Jamie Olson,89,Female,4066595222529,shopping_pos,610.65,3423 Michael Canyon Suite 276,River,KY,41254,Quarry manager,1379658045,0,1
+Joseph Bartlett,88,Male,4352307151555405069,shopping_net,1153.43,610 Pacheco Parkway,Falls Church,VA,22046,Armed forces training and education officer,1375226410,1,1
+Mary Rodriguez,55,Female,4973530368125489546,shopping_net,938.43,8986 Fitzgerald Plains,Winslow,AR,72959,Musician,1387591338,0,1
